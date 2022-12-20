@@ -1,0 +1,9 @@
+0x05. Python - Exceptions 
+
+It's important to have a way to handle errors.
+Python gives us exception handling.
+If you wrap lines of code into a try: block:
+	try:
+		# some lines of code
+If an error occurs, Python will alert you and you can determine which kind of
+error occurred using a except blocks:
